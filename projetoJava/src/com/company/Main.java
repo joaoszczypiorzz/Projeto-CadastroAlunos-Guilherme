@@ -153,8 +153,6 @@ public class Main {
 
     }
 
-
-
 //subrotina para imprimir mini mensagem de boas vindas na tela
     public static void mensagem(){
         System.out.println("-----------------------------------------");
