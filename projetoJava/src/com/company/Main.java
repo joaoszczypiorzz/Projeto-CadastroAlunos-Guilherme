@@ -122,7 +122,7 @@ public class Main {
             Aluno aluno = turma[i];
 
             //if para retornar a situação deles
-            if (aluno.media >= 70) {
+            if (aluno.media >= 70.00) {
                 aluno.situacao = "Aprovado";
             } else {
                 aluno.situacao = "Reprovado";
